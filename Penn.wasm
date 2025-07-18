@@ -1,0 +1,4 @@
+const maxSupply: u256 = u128.fromString('1000000000000000000000000').toU256(); // Your max supply
+const decimals: u8 = 18; // Your decimals
+const name: string = 'penn'; // Your token name
+const symbol: string = 'PEN'; // Your token symbol
